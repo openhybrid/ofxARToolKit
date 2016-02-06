@@ -1,4 +1,4 @@
-# ofxARToolKit
+# ofxARToolKit (Not jet functional - we are just testing)
 This is a new attempt for an OF ARToolKit 5 Add-On
 
 API Discussion:
