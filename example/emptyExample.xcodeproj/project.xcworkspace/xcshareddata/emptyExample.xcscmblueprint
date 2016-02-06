@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A572D28BCB2549585EF14C912BB88BD433599466",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6B478701120EA7939C13DE74AC015889B3C905F3" : 0,
+    "A572D28BCB2549585EF14C912BB88BD433599466" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1DD3B382-34D5-4C80-B04C-82DEBA4FE7CF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6B478701120EA7939C13DE74AC015889B3C905F3" : "..\/..",
+    "A572D28BCB2549585EF14C912BB88BD433599466" : "ofxARToolKit\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "emptyExample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "example\/emptyExample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vheun\/node.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6B478701120EA7939C13DE74AC015889B3C905F3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/openhybrid\/ofxARToolKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A572D28BCB2549585EF14C912BB88BD433599466"
+    }
+  ]
+}
